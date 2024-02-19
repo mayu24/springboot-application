@@ -1,3 +1,0 @@
-#gitignore not working 
-git rm -rf --cached .
-git add .
