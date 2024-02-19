@@ -1,0 +1,6 @@
+.classpath
+.settings
+trget/*
+.project
+.gitingore-issue.txt
+test.txt
